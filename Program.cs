@@ -13,8 +13,8 @@ namespace PracticalWork7
   {
     private static void Main(string[] args)
     {
-      ClassMSBuild.WorkMethod();
-      Console.ReadKey();
+          ClassMSBuild.WorkMethod();
+          Console.ReadKey();
     }
   }
 }
